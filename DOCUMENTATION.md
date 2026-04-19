@@ -1,10 +1,10 @@
 
 # 🌿 Meridian
 ## Full Documentation
-*Comprehensive Technical & Integration Reference (App v1.3.1.0 / Data Driver v1.3.0.0 / Echo Driver v1.1.0.0)*
+*Comprehensive Technical & Integration Reference (App v1.4.0.1 / Data Driver v1.4.0.0 / Echo Driver v1.4.0.0)*
 
 ![Platform](https://img.shields.io/badge/Platform-Hubitat-blue)
-![Version](https://img.shields.io/badge/Version-1.4.0.0-green?t=20260315)
+![Version](https://img.shields.io/badge/Version-1.4.0.1-green?t=20260315)
 
 
 Meridian provides **local-first, hybrid evapotranspiration (ET) and seasonal water modeling** for Hubitat.
