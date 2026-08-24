@@ -1,5 +1,5 @@
 
-# 🌿 Meridian
+# 🌿 Verdant
 ## Full Documentation
 *Comprehensive Technical & Integration Reference (App v1.4.0.1 / Data Driver v1.4.0.0 / Echo Driver v1.4.0.0)*
 
